@@ -35,7 +35,7 @@ In this notebook:
 
 1. Clone the repository:
 
-    git clone https://github.com/Sadra-sri/students-performance-regression.git
+    git clone https://github.com/Sadra-sri/ML_students-performances-regression.git
     cd students-performance-regression
 
 2. (Optional) Create and activate a virtual environment.

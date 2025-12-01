@@ -35,8 +35,8 @@ In this notebook:
 
 1. Clone the repository:
 
-    git clone https://github.com/Sadra-sri/students-performance-regression.git
-    cd students-performance-regression
+    git clone https://github.com/sadra-sri/ML_students-performances-regression.git
+    cd ML_students-performances-regression
 
 2. (Optional) Create and activate a virtual environment.
 
@@ -64,4 +64,5 @@ This is a simple baseline multiple linear regression model.
 
 - Add categorical features (e.g. \`gender\`, \`lunch\`, \`test preparation course\`)
 - Try regularization methods (Ridge, Lasso)
+
 - Perform more detailed exploratory data analysis and feature engineering

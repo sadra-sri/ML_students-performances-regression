@@ -42,7 +42,7 @@ In this notebook:
 
 3. Install dependencies:
 
-    pip install -r requirements.txt
+    pip install -r Requirements.txt
 
 4. Download the dataset from Kaggle and save \`StudentsPerformance.csv\`
    in the project folder (same directory as the notebook).
